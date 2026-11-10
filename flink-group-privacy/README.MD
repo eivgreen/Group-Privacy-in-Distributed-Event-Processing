@@ -1,2 +1,4 @@
 ### Java Implementation based on Apache Flink
-create an \inputs folder and put data source files inside
+Files in folder \inputs are insufficient by default. The default minimum number of files are 1000, i.e., 1000 data sources.
+
+See Configurations for changing this number.
