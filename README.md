@@ -53,10 +53,8 @@ We are not attaching any original datasets directly in this public repo., in ord
   MRE: 0.0831
 ```
 #### 4. Plot figures using Python scripts. E.g.,
-   !(examples/Car.png)
-   *Figure 1. MRE w.r.t. privacy budgets in Car Dataset.*
-   !(examples/latency_num_source.png)
-   *Figure 2. Latency w.r.t. group size in Car Dataset.*
+<img src="./Car.png" alt="MRE w.r.t. privacy budgets in Car Dataset" width="300"><img src="./latency_num_source.png" alt="Latency w.r.t. group size in Car Dataset" width="300">
+   
 #### 5. (Optional) Python scripts can also provide theoretical insights in a much faster way, which, however, is not implemented via Apache Flink.
 
 ## Configuration
