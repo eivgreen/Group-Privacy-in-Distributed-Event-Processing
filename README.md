@@ -39,10 +39,10 @@ We are not attaching any original datasets directly in this public repo., in ord
   ...
   ...
   DME> Received 811292 records，9864 target patterns detected.
-  Data consumer has received 811292 GPS records from 999 data sources.
+  Data consumer has received 811292 records from 999 data sources.
   Average Latency: 117.1514 ms
   Data Consumer> Received 811292 records, from 999 data sources，9864 target patterns detected.
-  Original GPS> All users generated 10202 target patterns.
+  Original Data> All users generated 10202 target patterns.
   Expr. End
 ```
 ```
