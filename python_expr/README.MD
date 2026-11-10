@@ -1,1 +1,3 @@
-### Python scripts without apache flink implementations, but this is faster and theoretically identical for its implemented features.
+### Python scripts without apache flink implementations.
+
+Faster and theoretically identical for its implemented features.
