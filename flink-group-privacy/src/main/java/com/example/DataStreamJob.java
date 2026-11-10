@@ -204,7 +204,7 @@ public class DataStreamJob {
         try (var rows = Files.lines(Path.of("outputs", "original-target.csv"))) {
             long totalTargetPatterns = rows.skip(1).count();
             System.out.printf(
-                    "Original GPS> All users generated %d target patterns.%n",
+                    "Original Data> All users generated %d target patterns.%n",
                     totalTargetPatterns);
         }
         System.out.println("Expr. End");
