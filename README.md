@@ -38,7 +38,7 @@ We are not attaching any original datasets directly in this public repo., in ord
   DME window> integration mode=LOGICAL, total=8, potential_private=1, non_Private=7, num_events_in_private_patterns=8
   ...
   ...
-  DME> Received 82429 records，9864 target patterns detected.
+  DME> Received 811292 records，9864 target patterns detected.
   Data consumer has received 811292 GPS records from 999 data sources.
   Average Latency: 117.1514 ms
   Data Consumer> Received 811292 records, from 999 data sources，9864 target patterns detected.
