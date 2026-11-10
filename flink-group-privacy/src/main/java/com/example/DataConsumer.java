@@ -75,7 +75,7 @@ final class DataConsumer implements
         public void flush(boolean endOfInput) {
             if (endOfInput) {
                 System.out.printf(
-                        "Data consumer has received %d GPS records from %d data sources.%n",
+                        "Data consumer has received %d records from %d data sources.%n",
                         received, seenUsers.size());
                 if (matchedTargetCount == 0) {
                     System.out.println("Average Latency: N/A");
