@@ -1,2 +1,2 @@
 ### Java Implementation based on Apache Flink
-All group types can be evaluated.
+create an \inputs folder and put data source files inside
